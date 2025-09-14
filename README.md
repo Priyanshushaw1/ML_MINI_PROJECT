@@ -1,12 +1,14 @@
 # ML_MINI_PROJECT
 
-Student Friendship Group Clustering Analysis
+Student Friendship Group model using clustering
 
 This project uses unsupervised machine learning to cluster students into "friendship groups" based on their shared interests, including hobbies, club participation, and other lifestyle preferences. The analysis uses K-Means clustering and evaluates the quality of the clusters using the Silhouette Score and the Davies – Bouldin Index.
 
 Project Highlights
 
-Data Loading & Preprocessing: The project loads a CSV file named snu_friendship.csv, handles categorical features through one-hot encoding, and prepares the data for clustering. Optimal Cluster Determination: It uses the Silhouette Score and Davies – Bouldin Index to determine the optimal number of clusters, evaluating a range of k from 2 to 10. Clustering: The K-Means algorithm is applied to the processed data to group the students. Visualization: Principal Component Analysis (PCA) is used to reduce the dimensionality of the data to 2D, allowing for a visual representation of the clusters. Evaluation: The quality of the final clustering is quantified using the Silhouette Score (0.50) and the Davies–Bouldin Index (0.31). Cluster Analysis: The project analyzes the number of students in each cluster and provides insights into the distinguishing characteristics of each group based on their hobbies, club affiliations, and other survey data.
+Data Loading & Preprocessing: The project loads a CSV file named "Data Collection for
+ML mini project (Responses) - Form Responses 1
+.csv", handles categorical features through one-hot encoding, and prepares the data for clustering. Optimal Cluster Determination: It uses the Silhouette Score and Davies – Bouldin Index to determine the optimal number of clusters, evaluating a range of k from 2 to 10. Clustering: The K-Means algorithm is applied to the processed data to group the students. Visualization: Principal Component Analysis (PCA) is used to reduce the dimensionality of the data to 2D, allowing for a visual representation of the clusters. Evaluation: The quality of the final clustering is quantified using the Silhouette Score (0.50) and the Davies–Bouldin Index (0.31). Cluster Analysis: The project analyzes the number of students in each cluster and provides insights into the distinguishing characteristics of each group based on their hobbies, club affiliations, and other survey data.
 
 Repository Structure
 
