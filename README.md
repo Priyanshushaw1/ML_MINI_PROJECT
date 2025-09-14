@@ -10,7 +10,9 @@ Data Loading & Preprocessing: The project loads a CSV file named snu_friendship.
 
 Repository Structure
 
-ML Mini Project smp.ipynb: The main Jupyter Notebook containing all the code for data processing, clustering, visualization, and analysis. snu_friendship.csv: The input dataset used for the project.
+ML Mini Project smp.ipynb: The main Jupyter Notebook containing all the code for data processing, clustering, visualization, and analysis. "Data Collection for
+ML mini project (Responses) - Form Responses 1
+.csv": The input dataset used for the project.
 
 Quick Start
 
