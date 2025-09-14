@@ -20,7 +20,9 @@ Prerequisites Make sure you have Python and Jupyter installed. The necessary lib
 
 How to Run
 
-Place the snu_friendship.csv file in the same directory as the notebook. Open the ML Mini Project smp.ipynb notebook in Jupyter. Run all the cells in the notebook.
+Place the "Data Collection for
+ML mini project (Responses) - Form Responses 1
+.csv" file in the same directory as the notebook. Open the ML Mini Project smp.ipynb notebook in Jupyter. Run all the cells in the notebook.
 
 The notebook will automatically perform the following steps:
 
@@ -28,7 +30,7 @@ Load and inspect the data. Preprocess categorical features using one-hot encodin
 
 Key Findings
 
-The analysis identified 10 distinct clusters, though some are very small (single-student clusters). The two largest clusters (Cluster 0 and Cluster 7) account for a significant portion of the students (41 and 35 students respectively). The Silhouette Score of 0.50 indicates that the clusters are reasonably well-separated and distinct. The Davies–Bouldin Index of 0.31 suggests that the clusters are relatively compact and well-separated from each other, as lower values are better.
+The analysis identified 10 distinct clusters, though some are very small (single-student clusters).
 
 Next Steps
 
